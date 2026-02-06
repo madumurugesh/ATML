@@ -1,5 +1,4 @@
-Student Name,Roll Number,Bench ID,Class,Section,IP Address,Present
-John Doe,2024CSE001,CSE-A-R1C1,CSE,A,192.168.1.101,Yes
-Jane Smith,2024CSE002,CSE-A-R1C2,CSE,A,192.168.1.102,Yes
-Robert Wilson,2024CSE003,CSE-A-R1C3,CSE,A,192.168.1.103,No
-Emily Davis,2024CSE004,CSE-A-R1C4,CSE,A,192.168.1.104,Yes
+Student Name,Roll Number,Class,Section,Bench ID,Present,IP Address,Subject,Room
+John Doe,CS21001,CSE,A,CSE-A-R1C1,Yes,192.168.1.101,Data Structures,LH-201
+Jane Smith,CS21002,CSE,A,CSE-A-R1C2,Yes,192.168.1.102,Data Structures,LH-201
+Bob Johnson,CS21003,CSE,A,CSE-A-R1C3,No,192.168.1.103,Data Structures,LH-201
